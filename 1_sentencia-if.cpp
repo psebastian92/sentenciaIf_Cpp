@@ -38,7 +38,10 @@ int main () {
 	}
 	
 	
-	else { // else NO lleva paréntesis, ya que analiza la condición del if.
+	else { 
+	// else NO lleva paréntesis, ya que analiza la condición del if.
+	// else NO es obligatorio. Solo se usa cuando queremos hacer algo si NO cumplió 
+	// la condición del if.
 		cout<<"Acceso denegado";
 	}
 	
